@@ -6,7 +6,7 @@ th {
 }
 
 body {
-	background: url('images/background.jpg') no-repeat top center fixed;
+	background: url('../images/background.jpg') no-repeat top center fixed;
 	background-size: cover;
 	min-height: 1500px;
 }
