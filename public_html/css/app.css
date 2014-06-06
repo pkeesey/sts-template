@@ -6,7 +6,7 @@ th {
 }
 
 body {
-	background: url('/images/top_banner.jpg') no-repeat bottom center fixed;
+	background: url('/images/background.jpg') no-repeat top center fixed;
 	background-size: cover;
 	min-height: 1000px;
 }
@@ -16,7 +16,7 @@ table {
 }
 
 .jumbotron {
-	background: rgba(119,38,27,0.4);
+	background: rgba(0,0,0,0.4);
 	color: white;
 }
 
