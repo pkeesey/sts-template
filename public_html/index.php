@@ -31,7 +31,7 @@
 				Publicly licensed by <a href="http://cris.lc" target="_blank">Cristos L-C</a>
 			</h3>
 			<h4>
-				photo credit: <a href="http://www.flickr.com/photos/jeffkrause/8987192651/">SpreadTheMagic</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/">cc</a>
+				photo credit: <a href="http://www.flickr.com/photos/thisisbossi/3166792155/">thisisbossi</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-sa/2.0/">cc</a>
 			</h4>
 		</div>
 	</div>
