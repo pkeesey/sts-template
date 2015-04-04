@@ -1,6 +1,1 @@
-sts-template
-============
-
-A template incorporating Sheetrock.js and TableSorter.js
-
-Demo at [http://cristoslc.com/portfolio/sts-template](http://cristoslc.com/portfolio/sts-template)
+Working on updating this template to use it with google analytics data
